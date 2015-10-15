@@ -1,8 +1,8 @@
 {
 "__ECO__":"__PACKAGE__",
 "Type":"Addon",
-"Version":"1.0.0",
-"UnityMinimumVersion":"5.0.0",
+"Version":"1.0.1",
+"UnityMinimumVersion":"5.0.1",
 "PlayMakerMinimumVersion":"1.7.8.3",
 "unitypackage":"PlayMaker/Ecosystem/Custom Packages/Vuforia/PlayMakerVuforia.unitypackage",
 "pingAssetPath":"PlayMaker Vuforia/PlayMakerVuforiaTrackableProxy.cs",
