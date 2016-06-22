@@ -1,7 +1,7 @@
 {
 "__ECO__":"__PACKAGE__",
 "Type":"Addon",
-"Version":"1.69",
+"Version":"1.71",
 "UnityMinimumVersion":"5.3.4",
 "PlayMakerMinimumVersion":"1.8.0",
 "unitypackage":"PlayMaker/Ecosystem/Custom Packages/ExitGames/PlayMakerPUN.unitypackage",
