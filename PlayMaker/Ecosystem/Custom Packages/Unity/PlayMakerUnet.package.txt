@@ -1,0 +1,10 @@
+{
+"__ECO__":"__PACKAGE__",
+"Type":"Module",
+"Version":"0.0.1 a",
+"UnityMinimumVersion":"5.3.5",
+"PlayMakerMinimumVersion":"1.8.2",
+"unitypackage":"PlayMaker/Ecosystem/Custom Packages/Unity/PlayMakerUnet.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Unet/README.md",
+"keywords":"Unity multi player network networking lobby"
+}
