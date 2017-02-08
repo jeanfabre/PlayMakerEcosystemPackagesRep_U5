@@ -5,6 +5,6 @@
 "UnityMinimumVersion":"5.5",
 "PlayMakerMinimumVersion":"1.8.3",
 "unitypackage":"PlayMaker/Ecosystem/Custom Packages/UnityLearn/PlayMakerSpaceShooter.unitypackage",
-"pingAssetPath":"Assets/PlayMaker UnityLearn SpaceShooter/PlayMaker UnityLearn SpaceShooter.unity",
-"keywords":"Unity learn demo full project sample space shooter arcade"
+"pingAssetPath":"Assets/PlayMaker Custom Samples/SpaceShooter UnityLearn/PlayMaker UnityLearn SpaceShooter.unity",
+"keywords":"Unity learn demo project sample space shooter arcade"
 }
