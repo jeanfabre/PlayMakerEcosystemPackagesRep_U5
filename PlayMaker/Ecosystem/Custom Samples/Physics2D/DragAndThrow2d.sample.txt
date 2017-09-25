@@ -1,7 +1,7 @@
 {
 "__ECO__":"__SAMPLE__",
 "Type":"Unity",
-"Version":"1.0",
+"Version":"1.1",
 "UnityMinimumVersion":"5.6",
 "PlayMakerMinimumVersion":"1.8.4",
 "unitypackage":"/PlayMaker/Ecosystem/Custom Samples/Physics2D",
