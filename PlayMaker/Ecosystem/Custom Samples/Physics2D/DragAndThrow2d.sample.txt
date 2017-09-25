@@ -4,7 +4,7 @@
 "Version":"1.1",
 "UnityMinimumVersion":"5.6",
 "PlayMakerMinimumVersion":"1.8.4",
-"unitypackage":"/PlayMaker/Ecosystem/Custom Samples/Physics2D",
+"unitypackage":"/PlayMaker/Ecosystem/Custom Samples/Physics2D/DragAndThrow2d.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Samples/DragAndThrow2d/DragAndThrow2d.unity",
 "keywords":"Drag Throw rigidBody 2d physics"
 }
