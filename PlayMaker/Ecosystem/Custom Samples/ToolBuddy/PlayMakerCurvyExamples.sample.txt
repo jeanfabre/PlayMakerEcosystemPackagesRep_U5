@@ -1,0 +1,10 @@
+{
+"__ECO__":"__SAMPLE__",
+"Type":"Unity",
+"Version":"2.2.3",
+"UnityMinimumVersion":"5.6",
+"PlayMakerMinimumVersion":"1.8.9",
+"unitypackage":"/PlayMaker/Ecosystem/Custom Samples/ToolBuddy/PlayMakerCurvyExamples.unitypackage",
+"pingAssetPath":"Assets/PlayMaker Curvy Examples/Scenes/PM30_CurvyAlignToSpline.unity",
+"keywords":"curvy curve spline bezier path"
+}
