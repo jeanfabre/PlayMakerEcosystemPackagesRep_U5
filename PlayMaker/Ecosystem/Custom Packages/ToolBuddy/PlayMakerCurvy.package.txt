@@ -1,9 +1,9 @@
 {
 "__ECO__":"__PACKAGE__",
 "Type":"Addon",
-"Version":"2.2.4.1",
+"Version":"2.2.3",
 "UnityMinimumVersion":"5.6",
-"PlayMakerMinimumVersion":"1.8.9",
+"PlayMakerMinimumVersion":"1.8.3",
 "unitypackage":"PlayMaker/Ecosystem/Custom Packages/ToolBuddy/PlayMakerCurvy.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Curvy/History.txt",
 "keywords":"curvy curve path spline bezier"
