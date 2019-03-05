@@ -2,7 +2,7 @@
 "__ECO__":"__PACKAGE__",
 "Author":"Gokhan Ergin",
 "Type":"Actions",
-"Version":"1.0.1",
+"Version":"1.0.2",
 "UnityMinimumVersion":"5.0",
 "PlayMakerMinimumVersion":"1.8.0",
 "unitypackage":"/PlayMaker/Ecosystem/Custom Packages/Pooler/Pooler.unitypackage",
