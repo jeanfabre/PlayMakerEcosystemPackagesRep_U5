@@ -7,5 +7,5 @@
 "PlayMakerMinimumVersion":"1.9",
 "unitypackage":"/PlayMaker/Ecosystem/Custom Packages/Math/Mathos action.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Custom Actions/MathExpression/MathosAction.cs",
-"keywords":""
+"keywords":"math expression "
 }
