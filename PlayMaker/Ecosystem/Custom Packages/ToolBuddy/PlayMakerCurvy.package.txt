@@ -1,7 +1,7 @@
 {
 "__ECO__":"__PACKAGE__",
 "Type":"Addon",
-"Version":"6.0.0",
+"Version":"7.0.0",
 "UnityMinimumVersion":"5.6",
 "PlayMakerMinimumVersion":"1.9.0",
 "unitypackage":"PlayMaker/Ecosystem/Custom Packages/ToolBuddy/PlayMakerCurvy.unitypackage",
