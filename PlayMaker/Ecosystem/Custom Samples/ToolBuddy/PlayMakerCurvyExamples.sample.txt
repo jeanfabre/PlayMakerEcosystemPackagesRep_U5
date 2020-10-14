@@ -1,8 +1,8 @@
 {
 "__ECO__":"__SAMPLE__",
 "Type":"Unity",
-"Version":"6.0.0",
-"UnityMinimumVersion":"5.6",
+"Version":"7.1.2",
+"UnityMinimumVersion":"2017.4.40f1",
 "PlayMakerMinimumVersion":"1.9.0",
 "unitypackage":"/PlayMaker/Ecosystem/Custom Samples/ToolBuddy/PlayMakerCurvyExamples.unitypackage",
 "pingAssetPath":"Assets/PlayMaker Curvy Examples/Scenes/PM30_CurvyAlignToSpline.unity",
